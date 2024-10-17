@@ -30,6 +30,9 @@
     "globals": "^15.9.0",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.13",
+    "rollup": "^2.x.x",
+    "@rollup/plugin-commonjs": "^21.x.x",
+    "@rollup/plugin-node-resolve": "^13.x.x",
     "vite": "^5.4.8"
   }
 }
